@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberGenerator</string>
+    <string name="logoText">Lucky Lotto Generator</string>
+    <string name="number">Nr?</string>
+    <string name="numberDescription">number from 1 to</string>
+    <string name="generateNumbers">GENERATE</string>
+    <string name="vytautas_kuklys">Vytautas Kuklys</string>
+    <string name="trust">Trust the Duck</string>
+</resources>
